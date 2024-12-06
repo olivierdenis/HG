@@ -19,3 +19,4 @@ Holographic gravity in the SEAT framework challenges traditional views by descri
 
 - [Olivier Denis](https://olivierdenis.github.io)
 - [Entropic Information theory](https://olivierdenis.github.io/Entropic-Information-Theory/)
+- [Entropic Information theory (site)](https://sites.google.com/view/olivierdenis)
