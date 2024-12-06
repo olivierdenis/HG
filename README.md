@@ -15,3 +15,7 @@ SEAT extends the entropy-area relationship to all gravitational systems, suggest
 Holographic gravity in the SEAT framework challenges traditional views by describing gravity as an emergent macroscopic effect from quantum information on boundary surfaces. This unified model ties together quantum mechanics, thermodynamics, and gravity, resolving issues like the black hole information paradox and providing a new understanding of the universe. SEAT suggests spacetime curvature results from entropic effects due to structured information at boundaries, offering a novel perspective where gravity is a consequence of statistical mechanics and informational dynamics rather than a standalone force.
 
 
+### Also, check out:
+
+- [Olivier Denis](https://olivierdenis.github.io)
+- [Entropic Information theory](https://olivierdenis.github.io/Entropic-Information-Theory/)
